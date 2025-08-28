@@ -3,6 +3,7 @@ class Hello {
         //declare a variable
         int number = 3;
         //print the variable
+        cha
         float f = 3.14f;
         byte b = 22;
         double d = 33.333;
