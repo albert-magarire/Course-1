@@ -9,6 +9,7 @@ class Hello {
         byte b = 22;
         double d = 33.333;
         char cd = 'A';
+        //some random ass changes
         boolean bool = true;
         int num = 100_070_000;
         System.out.println(num);
