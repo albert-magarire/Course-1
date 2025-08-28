@@ -3,7 +3,8 @@ class Hello {
         //declare a variable
         int number = 3;
         //print the variable
-        cha
+        char c1 = 'a';
+        System.out.println(c1);
         float f = 3.14f;
         byte b = 22;
         double d = 33.333;
