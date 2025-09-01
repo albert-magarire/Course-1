@@ -35,5 +35,7 @@ class Hello {
         float f1 = 3.14f;
         int i1 = (int) f1; // explicit casting from float to int
         System.out.println(i1); // Output: 3 
+
+        
     }
 }

@@ -3,7 +3,7 @@ public class App { // Defines a public class named App
         double width = 35;
         double height = 33;
         double area  = width * height;
-        System.out.println(f"The area of a rectangle with width")
+        System.out.println("The area of a rectangle with width "+ width + " and height " + height + " is: " + area); // Prints the area of the rectangle
 
 
     }
