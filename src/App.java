@@ -13,6 +13,6 @@ public class App {
         }else{
             System.out.println("Buddy, your word is: " + user_word);
         }
-        
+        //repo:albert-magarire/Course-1 /just typing in somthing for a commit
     }
 }
